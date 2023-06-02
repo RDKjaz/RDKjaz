@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 <img width=15% src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png">
 <img width=15% src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
 <img width=15% src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+<img width=15% src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </p>
